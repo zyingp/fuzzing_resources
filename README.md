@@ -1,8 +1,7 @@
 # fuzzing_resources
-A few resources for fuzzing
 
 
-# AFL 源码
+# 1. AFL 源码
 
 AFL - google 维护版
 https://github.com/google/AFL
@@ -16,7 +15,7 @@ https://github.com/AFLplusplus/AFLplusplus
 AFL的运行可以看自带文档，也可以搜索网络上的文章，如http://zeroyu.xyz/2019/05/15/how-to-use-afl-fuzz/  ，  https://paper.seebug.org/841/
 AFL的源码阅读，可以自行阅读，或者搜索网络上的文章，如https://bbs.pediy.com/thread-254705.htm
 
-# Fuzz 网络协议
+# 2. Fuzz 网络协议
 
 # 使用AFL
 可以使用Preeny hook，
@@ -34,7 +33,7 @@ https://www.peach.tech/products/peach-fuzzer/
 # Boofuzz
 https://github.com/jtpereyda/boofuzz
 
-# 一些有用工具
+# 3. 一些有用工具
 
 ## 自带的测试用例精简工具 afl-cmin afl-tmin
 
@@ -49,13 +48,13 @@ https://github.com/rc0r/afl-utils
 https://github.com/unifuzz/overview
 
 
-# LLVM
+# 4. LLVM
 
 https://github.com/google/AFL/tree/master/llvm_mode
 http://llvm.org/docs/WritingAnLLVMPass.html
 https://github.com/Evian-Zhang/llvm-ir-tutorial
 
-# KLEE
+# 5. KLEE
 
 ## KLEE官网
 http://klee.github.io/
@@ -63,7 +62,10 @@ http://klee.github.io/
 ## Kleeafl
 https://github.com/julieeen/kleefl
 
-# 论文
+# 6. 一些测试对象
+[Fuzzing targets](./fuzzing_targets.md)
+
+# 7. 论文
 
 最新Fuzzing论文
 https://github.com/wcventure/FuzzingPaper
@@ -71,3 +73,4 @@ https://github.com/wcventure/FuzzingPaper
 Yingpei Zeng, Mingmin Lin, Shanqing Guo, Yanzhao Shen, Tingting Cui, Ting Wu, Qiuhua Zheng, Qiuhua Wang, [MultiFuzz: A Coverage-Based Multiparty-Protocol Fuzzer for IoT Publish/Subscribe Protocols](https://zyingp.github.io/files/MultiFuzz.pdf), Sensors, Vol.20, No.18, 5194, 2020 
 
 建议使用Mendeley Desktop或者Zotero 管理文献
+
