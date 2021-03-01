@@ -50,8 +50,18 @@ https://github.com/unifuzz/overview
 
 # 4. LLVM
 
+## All
+https://llvm.org/docs/index.html
+
+## LLVM Pass
+AFL llvm-mode src
 https://github.com/google/AFL/tree/master/llvm_mode
+Writing An LLVM Pass
 http://llvm.org/docs/WritingAnLLVMPass.html
+
+## LLVM IR
+https://llvm.org/docs/LangRef.html
+中文tutorial（非官方）
 https://github.com/Evian-Zhang/llvm-ir-tutorial
 
 # 5. KLEE
