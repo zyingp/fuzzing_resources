@@ -53,6 +53,9 @@ https://github.com/unifuzz/overview
 ## All
 https://llvm.org/docs/index.html
 
+## LLVM Programmer’s Manual
+https://llvm.org/docs/ProgrammersManual.html
+
 ## LLVM Pass
 AFL llvm-mode src
 https://github.com/google/AFL/tree/master/llvm_mode
@@ -61,6 +64,7 @@ http://llvm.org/docs/WritingAnLLVMPass.html
 
 ## LLVM IR
 https://llvm.org/docs/LangRef.html
+
 中文tutorial（非官方）
 https://github.com/Evian-Zhang/llvm-ir-tutorial
 
