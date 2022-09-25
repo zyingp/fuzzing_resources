@@ -15,6 +15,8 @@ https://github.com/AFLplusplus/AFLplusplus
 AFL的运行可以看自带文档，也可以搜索网络上的文章，如http://zeroyu.xyz/2019/05/15/how-to-use-afl-fuzz/  ，  https://paper.seebug.org/841/
 AFL的源码阅读，可以自行阅读，或者搜索网络上的文章，如https://bbs.pediy.com/thread-254705.htm
 
+Fuzzing教程 https://github.com/antonio-morales/Fuzzing101
+
 # 2. Fuzz 网络协议
 
 # 使用AFL
